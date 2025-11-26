@@ -1,30 +1,15 @@
 # Sistema-glow
 
-Um parágrafo da descrição do projeto vai aqui
+Sistema simples de cadastro de clientes em Python com Tkinter e SQLite3, que registra dados, calcula automaticamente o IMC e permite inserir, atualizar e excluir clientes.
 
-# 🔌Como fazer funcionar na sua máquina:
+⚡ Como fazer funcionar na sua máquina:
+Instale Python 3 em sua máquina; Clone o repositório:
+Execute o arquivo .pycom:
+python Glow.py
+Pré-requisitos do sistema: Python 3 Tkinter (já vem com Python) SQLite3 (já vem com Python)
 
-- Instale Python na sua máquina;
-- Instale a biblioteca tal….
+🛠 Tecnologias utilizadas: Python 3 Tkinter (interface gráfica) SQLite3 (banco de dados)
 
-# 📋Pré-requisitos do sistema:
+Versões: Python 3.14
 
-> Exemplo
-> 
-
-## 🛠️Tecnologias utilizadas:
-
-> Editor de código
-Linguagens
-Bibliotecas
-> 
-
-## Versões:
-
-> Python 3.10
-> 
-
-## Autores:
-
-> Exemplo
->
+Autora: Livia Magalhães
